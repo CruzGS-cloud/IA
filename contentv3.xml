@@ -87,7 +87,7 @@
   <string role="key" value="_name"></string>
   <unicode value="Intro_a_Chat_GPT"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="17"></int>
+  <int value="22"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="12"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -977,7 +977,7 @@ text through the text editing buttons associated with the field."></unicode>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="18">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Diseño de Infografía sobre IA y Emprendimiento"></unicode>
+           <unicode value="Reto 1: aprendemos con Chat GPT y Google Trends"></unicode>
            <string role="key" value="_attributes"></string>
            <list>
             <tuple>
@@ -1038,7 +1038,7 @@ text through the text editing buttons associated with the field."></unicode>
             <instance class="exe.engine.field.TextAreaField" reference="19">
              <dictionary>
               <string role="key" value="_id"></string>
-              <unicode value="127_2"></unicode>
+              <unicode value="133_2"></unicode>
               <string role="key" value="_idevice"></string>
               <reference key="18"></reference>
               <string role="key" value="_instruc"></string>
@@ -1047,19 +1047,20 @@ text through the text editing buttons associated with the field."></unicode>
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
-              <string role="key" value="anchors_linked_from_fields"></string>
-              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;Objetivo de la Actividad: Fomentar la comprensión y la reflexión sobre la inteligencia artificial y su aplicación en el emprendimiento a través de la creación de una infografía educativa que resuma los conceptos clave, beneficios, desafíos y consejos prácticos para su implementación en pequeñas y medianas empresas (PYMEs).&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Descripción de la Actividad: Cada estudiante creará una infografía que ilustre de manera clara y concisa cómo la inteligencia artificial puede ser aplicada en el ámbito del emprendimiento, basándose en su aprendizaje teórico y práctico. Esta infografía deberá incluir ejemplos específicos, tips para la implementación y reflexiones personales sobre el uso de la IA.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Pasos de la Actividad:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Investigación:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Investigar sobre los fundamentos de la inteligencia artificial y su relevancia para los emprendedores.&lt;br /&gt;Identificar casos de éxito y estudios de caso donde la IA ha sido beneficioso para las PYMEs.&lt;br /&gt;Diseño del Contenido:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Seleccionar los puntos clave que se quieren destacar:Definición de IA: Explicar qué es la inteligencia artificial de manera simple.&lt;br /&gt;Aplicaciones en Emprendimiento: Describir cómo la IA puede optimizar procesos, mejorar la toma de decisiones y aumentar la eficiencia.&lt;br /&gt;Beneficios de la IA: Enumerar los beneficios tangibles como la reducción de costos, la mejora del servicio al cliente, etc.&lt;br /&gt;Desafíos y Consideraciones: Abordar los posibles desafíos y cómo superarlos.&lt;br /&gt;Tips y Mejores Prácticas: Ofrecer consejos para integrar la IA en los negocios pequeños y medianos.&lt;br /&gt;Reflexión Personal: Incluir una sección donde el estudiante refleje sobre cómo la IA podría impactar su propio emprendimiento o área de interés.&lt;br /&gt;Creación de la Infografía:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Utilizar herramientas digitales como Canva, Adobe Spark o Piktochart para diseñar la infografía.&lt;br /&gt;Integrar gráficos, imágenes y diagramas que hagan la información más accesible y atractiva.&lt;br /&gt;Presentación y Discusión:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Presentar la infografía en clase o subirla a la plataforma del curso para compartir con compañeros.&lt;br /&gt;Discutir cómo cada uno ha interpretado la aplicación de la IA en el emprendimiento y aprender de las diferentes perspectivas.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Evaluación:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;La infografía será evaluada según la claridad, creatividad, profundidad del contenido, y precisión en la representación de la información sobre IA.&lt;br /&gt;Se valorará también la originalidad en la presentación y la capacidad de sintetizar y comunicar ideas complejas de manera efectiva.&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p&gt;Objetivo: Aprender a formular preguntas efectivas a ChatGPT para maximizar la generación de ideas y la investigación de mercado en el desarrollo de proyectos innovadores.&lt;/p&gt;
+&lt;p&gt;1. Entender a ChatGPT:&lt;/p&gt;
+&lt;p&gt;Qué es ChatGPT: ChatGPT es un modelo de lenguaje desarrollado por OpenAI que puede generar texto, responder preguntas, y asistir en diversas tareas basado en las instrucciones que recibe.&lt;br /&gt;Capacidades y Limitaciones: Reconoce que, aunque es una herramienta poderosa, ChatGPT puede no entender preguntas ambiguas o demasiado complejas y no tiene acceso a datos en tiempo real más allá de su último entrenamiento (2023).&lt;/p&gt;
+&lt;p&gt;2. Formulación de Preguntas:&lt;/p&gt;
+&lt;p&gt;Claridad y Especificidad: Formula preguntas claras y específicas. Por ejemplo, en lugar de &quot;dame ideas de negocio&quot;, pregunta &quot;¿Cuáles son ideas de negocio innovadoras relacionadas con la tecnología verde para zonas urbanas?&quot;&lt;br /&gt;Desglose de Preguntas: Si tienes una idea compleja, desglosa la pregunta en partes más pequeñas para explorar diferentes aspectos de la idea.&lt;/p&gt;
+&lt;p&gt;3. Uso en el Brainstorming:&lt;/p&gt;
+&lt;p&gt;Expansión de Ideas: Usa ChatGPT para expandir una lista de ideas iniciales. Pregunta cómo se podrían adaptar esas ideas a diferentes mercados o cuáles serían las aplicaciones tecnológicas relevantes.&lt;br /&gt;Comparación y Contraste: Pide a ChatGPT que compare dos o más ideas de negocio, señalando ventajas y desventajas de cada una.&lt;/p&gt;
+&lt;p&gt;4. Investigación y Validación con ChatGPT:&lt;/p&gt;
+&lt;p&gt;Investigación de Competencia: Pregunta sobre empresas existentes en el mercado que realicen actividades similares a tu idea.&lt;br /&gt;Sugerencias de Mejora: Solicita sugerencias sobre cómo podrías mejorar una idea o hacerla más atractiva para el mercado actual.&lt;/p&gt;
+&lt;p&gt;5. Interacción Continua:&lt;/p&gt;
+&lt;p&gt;Diálogo Abierto: Mantén un diálogo abierto con ChatGPT, realizando preguntas de seguimiento basadas en las respuestas que te da.&lt;br /&gt;Refinamiento de Respuestas: Si una respuesta de ChatGPT no es clara o completa, pide más detalles o ejemplos específicos.&lt;/p&gt;
+&lt;p&gt;6. Práctica :&lt;/p&gt;
+&lt;p&gt;Análisis de Respuestas: Aprende a discernir y evaluar la utilidad de las respuestas de ChatGPT para diferentes tipos de preguntas.&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1082,14 +1083,14 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="20"></reference>
+              <none></none>
              </dictionary>
             </instance>
            </list>
            <string role="key" value="icon"></string>
            <unicode value="activity"></unicode>
            <string role="key" value="id"></string>
-           <unicode value="10"></unicode>
+           <unicode value="19"></unicode>
            <string role="key" value="ideviceCategory"></string>
            <unicode value="Text and Tasks"></unicode>
            <string role="key" value="lastIdevice"></string>
@@ -1113,7 +1114,7 @@ text through the text editing buttons associated with the field."></unicode>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="21">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Rúbrica diseño infografía"></unicode>
+           <unicode value="Reto 2 : Diseño de Infografía sobre IA y Emprendimiento"></unicode>
            <string role="key" value="_attributes"></string>
            <list>
             <tuple>
@@ -1152,17 +1153,17 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="_author"></string>
            <string value=""></string>
            <string role="key" value="_iDeviceDir"></string>
-           <string value="rubrics"></string>
+           <string value="pbl-tools"></string>
            <string role="key" value="_purpose"></string>
            <string value=""></string>
            <string role="key" value="_tip"></string>
            <string value=""></string>
            <string role="key" value="_typeName"></string>
-           <unicode value="Rubric"></unicode>
+           <unicode value="Task"></unicode>
            <string role="key" value="_valid"></string>
            <bool value="1"></bool>
            <string role="key" value="class_"></string>
-           <unicode value="Rubric"></unicode>
+           <unicode value="pbl"></unicode>
            <string role="key" value="edit"></string>
            <bool value="0"></bool>
            <string role="key" value="emphasis"></string>
@@ -1174,7 +1175,7 @@ text through the text editing buttons associated with the field."></unicode>
             <instance class="exe.engine.field.TextAreaField" reference="22">
              <dictionary>
               <string role="key" value="_id"></string>
-              <unicode value="128_2"></unicode>
+              <unicode value="127_2"></unicode>
               <string role="key" value="_idevice"></string>
               <reference key="21"></reference>
               <string role="key" value="_instruc"></string>
@@ -1186,7 +1187,16 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;table class='exe-table'&gt;&lt;caption&gt;Rúbrica de ejemplo (4x4)&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&amp;nbsp;&lt;/th&gt;&lt;th&gt;Excelente (9-10 puntos)&lt;/th&gt;&lt;th&gt;Bueno (7-8 puntos)&lt;/th&gt;&lt;th&gt;Aceptable (5-6 puntos)&lt;/th&gt;&lt;th&gt;Insuficiente (0-4 puntos)&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;Contenido y Profundidad&lt;/th&gt;&lt;td&gt;	La infografía proporciona una excelente comprensión de la IA en emprendimiento, con ejemplos detallados y análisis profundo. &lt;span&gt;(2.5)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;La infografía explica bien la IA en emprendimiento, pero algunos detalles son superficiales. &lt;span&gt;(1.75)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;La infografía cubre conceptos básicos sin mucho detalle. &lt;span&gt;(1.50)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;La infografía tiene errores significativos o falta de información clave. &lt;span&gt;(1.25)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Claridad y Organización&lt;/th&gt;&lt;td&gt;Descriptor (2.1) &lt;span&gt;(2.5)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Descriptor (2.2) &lt;span&gt;(1.75)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Descriptor (2.3) &lt;span&gt;(1.50)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Descriptor (2.4) &lt;span&gt;(1.25)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Diseño Gráfico y Estética&lt;/th&gt;&lt;td&gt;Descriptor (3.1) &lt;span&gt;(2.5)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Descriptor (3.2) &lt;span&gt;(1.75)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Descriptor (3.3) &lt;span&gt;(1.50)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Descriptor (3.4) &lt;span&gt;(1.25)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Exactitud y Rigor&lt;/th&gt;&lt;td&gt;Descriptor (4.1) &lt;span&gt;(2.5)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Descriptor (4.2) &lt;span&gt;(1.75)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Descriptor (4.3) &lt;span&gt;(1.50)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Descriptor (4.4) &lt;span&gt;(1.25)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Creatividad y Originalidad&lt;/th&gt;&lt;td&gt;X &lt;span&gt;(X)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;X &lt;span&gt;(X)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;X &lt;span&gt;(X)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;X &lt;span&gt;(X)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Reflexión Personal&lt;/th&gt;&lt;td&gt;X&lt;/td&gt;&lt;td&gt;X &lt;span&gt;(X)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;X &lt;span&gt;(X)&lt;/span&gt;&lt;/td&gt;&lt;td&gt;X &lt;span&gt;(X)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;ul class=&quot;exe-rubric-strings&quot;&gt;&lt;li class=&quot;activity&quot;&gt;Actividad&lt;/li&gt;&lt;li class=&quot;name&quot;&gt;Nombre&lt;/li&gt;&lt;li class=&quot;date&quot;&gt;Fecha&lt;/li&gt;&lt;li class=&quot;score&quot;&gt;Puntuación&lt;/li&gt;&lt;li class=&quot;notes&quot;&gt;Notas&lt;/li&gt;&lt;li class=&quot;reset&quot;&gt;Reiniciar&lt;/li&gt;&lt;li class=&quot;print&quot;&gt;Imprimir&lt;/li&gt;&lt;li class=&quot;apply&quot;&gt;Aplicar&lt;/li&gt;&lt;li class=&quot;newWindow&quot;&gt;Ventana nueva&lt;/li&gt;&lt;/ul&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;Objetivo de la Actividad: Fomentar la comprensión y la reflexión sobre la inteligencia artificial y su aplicación en el emprendimiento a través de la creación de una infografía educativa que resuma los conceptos clave, beneficios, desafíos y consejos prácticos para su implementación en pequeñas y medianas empresas (PYMEs).&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Descripción de la Actividad: Cada estudiante creará una infografía que ilustre de manera clara y concisa cómo la inteligencia artificial puede ser aplicada en el ámbito del emprendimiento, basándose en su aprendizaje teórico y práctico. Esta infografía deberá incluir ejemplos específicos, tips para la implementación y reflexiones personales sobre el uso de la IA.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Pasos de la Actividad:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Investigación:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Investigar sobre los fundamentos de la inteligencia artificial y su relevancia para los emprendedores.&lt;br /&gt;Identificar casos de éxito y estudios de caso donde la IA ha sido beneficioso para las PYMEs.&lt;br /&gt;Diseño del Contenido:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Seleccionar los puntos clave que se quieren destacar:Definición de IA: Explicar qué es la inteligencia artificial de manera simple.&lt;br /&gt;Aplicaciones en Emprendimiento: Describir cómo la IA puede optimizar procesos, mejorar la toma de decisiones y aumentar la eficiencia.&lt;br /&gt;Beneficios de la IA: Enumerar los beneficios tangibles como la reducción de costos, la mejora del servicio al cliente, etc.&lt;br /&gt;Desafíos y Consideraciones: Abordar los posibles desafíos y cómo superarlos.&lt;br /&gt;Tips y Mejores Prácticas: Ofrecer consejos para integrar la IA en los negocios pequeños y medianos.&lt;br /&gt;Reflexión Personal: Incluir una sección donde el estudiante refleje sobre cómo la IA podría impactar su propio emprendimiento o área de interés.&lt;br /&gt;Creación de la Infografía:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Utilizar herramientas digitales como Canva, Adobe Spark o Piktochart para diseñar la infografía.&lt;br /&gt;Integrar gráficos, imágenes y diagramas que hagan la información más accesible y atractiva.&lt;br /&gt;Presentación y Discusión:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Presentar la infografía en clase o subirla a la plataforma del curso para compartir con compañeros.&lt;br /&gt;Discutir cómo cada uno ha interpretado la aplicación de la IA en el emprendimiento y aprender de las diferentes perspectivas.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Evaluación:&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;La infografía será evaluada según la claridad, creatividad, profundidad del contenido, y precisión en la representación de la información sobre IA.&lt;br /&gt;Se valorará también la originalidad en la presentación y la capacidad de sintetizar y comunicar ideas complejas de manera efectiva.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Rúbrica&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1214,17 +1224,17 @@ text through the text editing buttons associated with the field."></unicode>
             </instance>
            </list>
            <string role="key" value="icon"></string>
-           <unicode value=""></unicode>
+           <unicode value="activity"></unicode>
            <string role="key" value="id"></string>
-           <unicode value="11"></unicode>
+           <unicode value="10"></unicode>
            <string role="key" value="ideviceCategory"></string>
-           <unicode value="Other Contents"></unicode>
+           <unicode value="Text and Tasks"></unicode>
            <string role="key" value="lastIdevice"></string>
            <bool value="0"></bool>
            <string role="key" value="nextFieldId"></string>
            <int value="3"></int>
            <string role="key" value="originalicon"></string>
-           <string value=""></string>
+           <unicode value="activity"></unicode>
            <string role="key" value="parentNode"></string>
            <reference key="20"></reference>
            <string role="key" value="systemResources"></string>
@@ -1657,183 +1667,16 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
-        <list>
-         <instance class="exe.engine.node.Node" reference="31">
-          <dictionary>
-           <string role="key" value="_title"></string>
-           <unicode value="Algunos consejos"></unicode>
-           <string role="key" value="idevices"></string>
-           <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="29">
-             <dictionary>
-              <string role="key" value="_title"></string>
-              <unicode value="Píldora Formativa: Aprendiendo con ChatGPT en el Reto de Innovación Empresarial"></unicode>
-              <string role="key" value="_attributes"></string>
-              <list>
-               <tuple>
-                <string value="title"></string>
-                <list>
-                 <string value="Title"></string>
-                 <int value="0"></int>
-                 <int value="0"></int>
-                </list>
-               </tuple>
-               <tuple>
-                <string value="category"></string>
-                <list>
-                 <string value="Category"></string>
-                 <int value="0"></int>
-                 <int value="1"></int>
-                </list>
-               </tuple>
-               <tuple>
-                <string value="css-class"></string>
-                <list>
-                 <string value="CSS class"></string>
-                 <int value="0"></int>
-                 <int value="2"></int>
-                </list>
-               </tuple>
-               <tuple>
-                <string value="icon"></string>
-                <list>
-                 <string value="Icon"></string>
-                 <int value="0"></int>
-                 <int value="3"></int>
-                </list>
-               </tuple>
-              </list>
-              <string role="key" value="_author"></string>
-              <string value=""></string>
-              <string role="key" value="_iDeviceDir"></string>
-              <string value="text"></string>
-              <string role="key" value="_purpose"></string>
-              <string value=""></string>
-              <string role="key" value="_tip"></string>
-              <string value=""></string>
-              <string role="key" value="_typeName"></string>
-              <unicode value="Text"></unicode>
-              <string role="key" value="_valid"></string>
-              <bool value="1"></bool>
-              <string role="key" value="class_"></string>
-              <unicode value="text"></unicode>
-              <string role="key" value="edit"></string>
-              <bool value="0"></bool>
-              <string role="key" value="emphasis"></string>
-              <int value="1"></int>
-              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-              <int value="1"></int>
-              <string role="key" value="fields"></string>
-              <list>
-               <instance class="exe.engine.field.TextAreaField" reference="30">
-                <dictionary>
-                 <string role="key" value="_id"></string>
-                 <unicode value="129_2"></unicode>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="29"></reference>
-                 <string role="key" value="_instruc"></string>
-                 <string value=""></string>
-                 <string role="key" value="_name"></string>
-                 <string value=""></string>
-                 <string role="key" value="anchor_names"></string>
-                 <list></list>
-                 <string role="key" value="anchors_linked_from_fields"></string>
-                 <dictionary></dictionary>
-                 <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Objetivo: Aprender a formular preguntas efectivas a ChatGPT para maximizar la generación de ideas y la investigación de mercado en el desarrollo de proyectos innovadores.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;1. Entender a ChatGPT:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Qué es ChatGPT: ChatGPT es un modelo de lenguaje desarrollado por OpenAI que puede generar texto, responder preguntas, y asistir en diversas tareas basado en las instrucciones que recibe.&lt;br /&gt;Capacidades y Limitaciones: Reconoce que, aunque es una herramienta poderosa, ChatGPT puede no entender preguntas ambiguas o demasiado complejas y no tiene acceso a datos en tiempo real más allá de su último entrenamiento (2023).&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;2. Formulación de Preguntas:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Claridad y Especificidad: Formula preguntas claras y específicas. Por ejemplo, en lugar de &quot;dame ideas de negocio&quot;, pregunta &quot;¿Cuáles son ideas de negocio innovadoras relacionadas con la tecnología verde para zonas urbanas?&quot;&lt;br /&gt;Desglose de Preguntas: Si tienes una idea compleja, desglosa la pregunta en partes más pequeñas para explorar diferentes aspectos de la idea.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;3. Uso en el Brainstorming:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Expansión de Ideas: Usa ChatGPT para expandir una lista de ideas iniciales. Pregunta cómo se podrían adaptar esas ideas a diferentes mercados o cuáles serían las aplicaciones tecnológicas relevantes.&lt;br /&gt;Comparación y Contraste: Pide a ChatGPT que compare dos o más ideas de negocio, señalando ventajas y desventajas de cada una.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;4. Investigación y Validación con ChatGPT:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Investigación de Competencia: Pregunta sobre empresas existentes en el mercado que realicen actividades similares a tu idea.&lt;br /&gt;Sugerencias de Mejora: Solicita sugerencias sobre cómo podrías mejorar una idea o hacerla más atractiva para el mercado actual.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;5. Interacción Continua:&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Diálogo Abierto: Mantén un diálogo abierto con ChatGPT, realizando preguntas de seguimiento basadas en las respuestas que te da.&lt;br /&gt;Refinamiento de Respuestas: Si una respuesta de ChatGPT no es clara o completa, pide más detalles o ejemplos específicos.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;6. Práctica :&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Análisis de Respuestas: Aprende a discernir y evaluar la utilidad de las respuestas de ChatGPT para diferentes tipos de preguntas.&lt;/p&gt;&lt;/div&gt;"></unicode>
-                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                 <int value="4"></int>
-                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-                 <int value="3"></int>
-                 <string role="key" value="htmlTag"></string>
-                 <string value="div"></string>
-                 <string role="key" value="images"></string>
-                 <instance class="exe.engine.galleryidevice.GalleryImages">
-                  <dictionary>
-                   <string role="key" value=".listitems"></string>
-                   <list></list>
-                   <string role="key" value="idevice"></string>
-                   <reference key="30"></reference>
-                  </dictionary>
-                 </instance>
-                 <string role="key" value="intlinks_to_anchors"></string>
-                 <dictionary></dictionary>
-                 <string role="key" value="nextImageId"></string>
-                 <int value="0"></int>
-                 <string role="key" value="parentNode"></string>
-                 <reference key="31"></reference>
-                </dictionary>
-               </instance>
-              </list>
-              <string role="key" value="icon"></string>
-              <unicode value=""></unicode>
-              <string role="key" value="id"></string>
-              <unicode value="6"></unicode>
-              <string role="key" value="ideviceCategory"></string>
-              <unicode value="Text and Tasks"></unicode>
-              <string role="key" value="lastIdevice"></string>
-              <bool value="0"></bool>
-              <string role="key" value="nextFieldId"></string>
-              <int value="3"></int>
-              <string role="key" value="originalicon"></string>
-              <string value=""></string>
-              <string role="key" value="parentNode"></string>
-              <reference key="31"></reference>
-              <string role="key" value="systemResources"></string>
-              <list></list>
-              <string role="key" value="undo"></string>
-              <bool value="1"></bool>
-              <string role="key" value="userResources"></string>
-              <list></list>
-              <string role="key" value="version"></string>
-              <int value="0"></int>
-             </dictionary>
-            </instance>
-           </list>
-           <string role="key" value="_id"></string>
-           <unicode value="6"></unicode>
-           <string role="key" value="_package"></string>
-           <reference key="2"></reference>
-           <string role="key" value="anchor_fields"></string>
-           <list></list>
-           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="exportType"></string>
-           <string value="website"></string>
-           <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Emprendemos%20con%20IA:Reto%201%3A%20Generaci%C3%B3n%20ideas%20negocio:Algunos%20consejos"></string>
-           <string role="key" value="parent"></string>
-           <reference key="28"></reference>
-           <string role="key" value="top_anchors_linked_from_fields"></string>
-           <list></list>
-           <string role="key" value="children"></string>
-           <list></list>
-          </dictionary>
-         </instance>
-        </list>
+        <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="34">
+      <instance class="exe.engine.node.Node" reference="31">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Reto 2: Analisis estratégico con IA"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="32">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="29">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Reto de Análisis Estratégico con IA"></unicode>
@@ -1894,12 +1737,12 @@ text through the text editing buttons associated with the field."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="33">
+            <instance class="exe.engine.field.TextAreaField" reference="30">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="127_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="32"></reference>
+              <reference key="29"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -1939,7 +1782,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="33"></reference>
+                <reference key="30"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -1947,7 +1790,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="34"></reference>
+              <reference key="31"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1964,7 +1807,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="34"></reference>
+           <reference key="31"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -1975,108 +1818,83 @@ text through the text editing buttons associated with the field."></unicode>
            <int value="0"></int>
           </dictionary>
          </instance>
-        </list>
-        <string role="key" value="_id"></string>
-        <unicode value="7"></unicode>
-        <string role="key" value="_package"></string>
-        <reference key="2"></reference>
-        <string role="key" value="anchor_fields"></string>
-        <list></list>
-        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-        <int value="2"></int>
-        <string role="key" value="exportType"></string>
-        <string value="website"></string>
-        <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Emprendemos%20con%20IA:Reto%202%3A%20Analisis%20estrat%C3%A9gico%20con%20IA"></string>
-        <string role="key" value="parent"></string>
-        <reference key="4"></reference>
-        <string role="key" value="top_anchors_linked_from_fields"></string>
-        <list></list>
-        <string role="key" value="children"></string>
-        <list>
-         <instance class="exe.engine.node.Node" reference="37">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="32">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="Uso de Chat GPT"></unicode>
-           <string role="key" value="idevices"></string>
+           <unicode value="Indicaciones para Trabajar con ChatGPT en el Reto de Análisis Estratégico"></unicode>
+           <string role="key" value="_attributes"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="35">
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="33">
              <dictionary>
-              <string role="key" value="_title"></string>
-              <unicode value="Indicaciones para Trabajar con ChatGPT en el Reto de Análisis Estratégico"></unicode>
-              <string role="key" value="_attributes"></string>
-              <list>
-               <tuple>
-                <string value="title"></string>
-                <list>
-                 <string value="Title"></string>
-                 <int value="0"></int>
-                 <int value="0"></int>
-                </list>
-               </tuple>
-               <tuple>
-                <string value="category"></string>
-                <list>
-                 <string value="Category"></string>
-                 <int value="0"></int>
-                 <int value="1"></int>
-                </list>
-               </tuple>
-               <tuple>
-                <string value="css-class"></string>
-                <list>
-                 <string value="CSS class"></string>
-                 <int value="0"></int>
-                 <int value="2"></int>
-                </list>
-               </tuple>
-               <tuple>
-                <string value="icon"></string>
-                <list>
-                 <string value="Icon"></string>
-                 <int value="0"></int>
-                 <int value="3"></int>
-                </list>
-               </tuple>
-              </list>
-              <string role="key" value="_author"></string>
+              <string role="key" value="_id"></string>
+              <unicode value="128_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="32"></reference>
+              <string role="key" value="_instruc"></string>
               <string value=""></string>
-              <string role="key" value="_iDeviceDir"></string>
-              <string value="text"></string>
-              <string role="key" value="_purpose"></string>
+              <string role="key" value="_name"></string>
               <string value=""></string>
-              <string role="key" value="_tip"></string>
-              <string value=""></string>
-              <string role="key" value="_typeName"></string>
-              <unicode value="Text"></unicode>
-              <string role="key" value="_valid"></string>
-              <bool value="1"></bool>
-              <string role="key" value="class_"></string>
-              <unicode value="text"></unicode>
-              <string role="key" value="edit"></string>
-              <bool value="0"></bool>
-              <string role="key" value="emphasis"></string>
-              <int value="1"></int>
-              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-              <int value="1"></int>
-              <string role="key" value="fields"></string>
-              <list>
-               <instance class="exe.engine.field.TextAreaField" reference="36">
-                <dictionary>
-                 <string role="key" value="_id"></string>
-                 <unicode value="128_2"></unicode>
-                 <string role="key" value="_idevice"></string>
-                 <reference key="35"></reference>
-                 <string role="key" value="_instruc"></string>
-                 <string value=""></string>
-                 <string role="key" value="_name"></string>
-                 <string value=""></string>
-                 <string role="key" value="anchor_names"></string>
-                 <list></list>
-                 <string role="key" value="anchors_linked_from_fields"></string>
-                 <dictionary></dictionary>
-                 <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;Objetivo:&lt;/span&gt; &lt;/strong&gt;Utilizar ChatGPT para profundizar y expandir los análisis estratégicos de vuestra idea de negocio, fomentando habilidades críticas y de pensamiento independiente.&lt;/p&gt;
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;Objetivo:&lt;/span&gt; &lt;/strong&gt;Utilizar ChatGPT para profundizar y expandir los análisis estratégicos de vuestra idea de negocio, fomentando habilidades críticas y de pensamiento independiente.&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ff6600;&quot;&gt;Instrucciones Detalladas:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Preparación: &lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -2117,142 +1935,164 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;div class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;Freepik&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;UX&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
-                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                 <int value="4"></int>
-                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-                 <int value="2"></int>
-                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-                 <int value="3"></int>
-                 <string role="key" value="htmlTag"></string>
-                 <string value="div"></string>
-                 <string role="key" value="images"></string>
-                 <instance class="exe.engine.galleryidevice.GalleryImages">
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
                   <dictionary>
-                   <string role="key" value=".listitems"></string>
-                   <list>
-                    <instance class="exe.engine.galleryidevice.GalleryImage">
-                     <dictionary>
-                      <string role="key" value="_caption"></string>
-                      <instance class="exe.engine.field.TextField">
-                       <dictionary>
-                        <string role="key" value="_id"></string>
-                        <int value="256"></int>
-                        <string role="key" value="_idevice"></string>
-                        <none></none>
-                        <string role="key" value="_instruc"></string>
-                        <string value=""></string>
-                        <string role="key" value="_name"></string>
-                        <string value=""></string>
-                        <string role="key" value="content"></string>
-                        <string value=""></string>
-                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                        <int value="4"></int>
-                       </dictionary>
-                      </instance>
-                      <string role="key" value="_id"></string>
-                      <unicode value="9_128_2.2"></unicode>
-                      <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="38">
-                       <dictionary>
-                        <string role="key" value="_idevice"></string>
-                        <reference key="35"></reference>
-                        <string role="key" value="_package"></string>
-                        <reference key="2"></reference>
-                        <string role="key" value="_storageName"></string>
-                        <string value="representation-user-experience-interface-design.jpg"></string>
-                        <string role="key" value="_userName"></string>
-                        <string value="/var/folders/l5/glvt_kzj5s97jgvjp4955pfr0000gn/T/tmpMQJDla/representation-user-experience-interface-design.jpg"></string>
-                        <string role="key" value="checksum"></string>
-                        <string value="255e7f2cd46aeb88df2d883ef288b659"></string>
-                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                        <int value="2"></int>
-                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                        <int value="2"></int>
-                        <string role="key" value="warningMsg"></string>
-                        <string value=""></string>
-                       </dictionary>
-                      </instance>
-                      <string role="key" value="_parent"></string>
-                      <reference key="36"></reference>
-                      <string role="key" value="_thumbnailResource"></string>
-                      <none></none>
-                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                      <int value="3"></int>
-                      <string role="key" value="makeThumbnail"></string>
-                      <bool value="0"></bool>
-                     </dictionary>
-                    </instance>
-                   </list>
-                   <string role="key" value="idevice"></string>
-                   <reference key="36"></reference>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="256"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="9_128_2.2"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="34">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="32"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="representation-user-experience-interface-design.jpg"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="/var/folders/l5/glvt_kzj5s97jgvjp4955pfr0000gn/T/tmpMQJDla/representation-user-experience-interface-design.jpg"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="255e7f2cd46aeb88df2d883ef288b659"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="33"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
                   </dictionary>
                  </instance>
-                 <string role="key" value="intlinks_to_anchors"></string>
-                 <dictionary></dictionary>
-                 <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
-                 <string role="key" value="parentNode"></string>
-                 <reference key="37"></reference>
-                </dictionary>
-               </instance>
-              </list>
-              <string role="key" value="icon"></string>
-              <unicode value=""></unicode>
-              <string role="key" value="id"></string>
-              <unicode value="9"></unicode>
-              <string role="key" value="ideviceCategory"></string>
-              <unicode value="Text and Tasks"></unicode>
-              <string role="key" value="lastIdevice"></string>
-              <bool value="0"></bool>
-              <string role="key" value="nextFieldId"></string>
+                </list>
+                <string role="key" value="idevice"></string>
+                <reference key="33"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
               <int value="3"></int>
-              <string role="key" value="originalicon"></string>
-              <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="37"></reference>
-              <string role="key" value="systemResources"></string>
-              <list></list>
-              <string role="key" value="undo"></string>
-              <bool value="1"></bool>
-              <string role="key" value="userResources"></string>
-              <list>
-               <reference key="38"></reference>
-              </list>
-              <string role="key" value="version"></string>
-              <int value="0"></int>
+              <instance class="exe.engine.node.Node">
+               <dictionary>
+                <string role="key" value="_title"></string>
+                <unicode value="Uso de Chat GPT"></unicode>
+                <string role="key" value="idevices"></string>
+                <list></list>
+                <string role="key" value="_id"></string>
+                <unicode value="8"></unicode>
+                <string role="key" value="_package"></string>
+                <none></none>
+                <string role="key" value="anchor_fields"></string>
+                <list></list>
+                <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+                <int value="2"></int>
+                <string role="key" value="exportType"></string>
+                <string value="website"></string>
+                <string role="key" value="last_full_node_path"></string>
+                <string value="exe-node:Emprendemos%20con%20IA:Reto%202%3A%20Analisis%20estrat%C3%A9gico%20con%20IA:Uso%20de%20Chat%20GPT"></string>
+                <string role="key" value="parent"></string>
+                <none></none>
+                <string role="key" value="top_anchors_linked_from_fields"></string>
+                <list></list>
+                <string role="key" value="children"></string>
+                <list></list>
+               </dictionary>
+              </instance>
              </dictionary>
             </instance>
            </list>
-           <string role="key" value="_id"></string>
-           <unicode value="8"></unicode>
-           <string role="key" value="_package"></string>
-           <reference key="2"></reference>
-           <string role="key" value="anchor_fields"></string>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="9"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="31"></reference>
+           <string role="key" value="systemResources"></string>
            <list></list>
-           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-           <int value="2"></int>
-           <string role="key" value="exportType"></string>
-           <string value="website"></string>
-           <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Emprendemos%20con%20IA:Reto%202%3A%20Analisis%20estrat%C3%A9gico%20con%20IA:Uso%20de%20Chat%20GPT"></string>
-           <string role="key" value="parent"></string>
-           <reference key="34"></reference>
-           <string role="key" value="top_anchors_linked_from_fields"></string>
-           <list></list>
-           <string role="key" value="children"></string>
-           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list>
+            <reference key="34"></reference>
+           </list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
           </dictionary>
          </instance>
         </list>
+        <string role="key" value="_id"></string>
+        <unicode value="7"></unicode>
+        <string role="key" value="_package"></string>
+        <reference key="2"></reference>
+        <string role="key" value="anchor_fields"></string>
+        <list></list>
+        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+        <int value="2"></int>
+        <string role="key" value="exportType"></string>
+        <string value="website"></string>
+        <string role="key" value="last_full_node_path"></string>
+        <string value="exe-node:Emprendemos%20con%20IA:Reto%202%3A%20Analisis%20estrat%C3%A9gico%20con%20IA"></string>
+        <string role="key" value="parent"></string>
+        <reference key="4"></reference>
+        <string role="key" value="top_anchors_linked_from_fields"></string>
+        <list></list>
+        <string role="key" value="children"></string>
+        <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="41">
+      <instance class="exe.engine.node.Node" reference="37">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Reto 3: Canvas Modelo Negocio "></unicode>
+        <unicode value="Reto 3: Crea tu Chatbot"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="39">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="35">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Task"></unicode>
@@ -2313,12 +2153,12 @@ text through the text editing buttons associated with the field."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="40">
+            <instance class="exe.engine.field.TextAreaField" reference="36">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="128_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="39"></reference>
+              <reference key="35"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -2326,7 +2166,11 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="anchor_names"></string>
               <list></list>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value=""></unicode>
+              <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p&gt;Reto: Crear un chatbot para una empresa ficticia&lt;br /&gt;Objetivo: Diseñar y configurar un chatbot básico que responda a preguntas comunes de clientes o simule atención al cliente para la empresa ficticia del proyecto empresarial.&lt;/p&gt;
+&lt;p&gt;Freepik (CC BY-SA)&lt;/p&gt;
+&lt;p&gt;Cómo plantearlo paso a paso:&lt;br /&gt;1. Definir el propósito del chatbot&lt;br /&gt;¿Qué problema resolverá? Por ejemplo:Atención al cliente: responder preguntas frecuentes (horarios, precios, ubicación).&lt;br /&gt;Promoción: proporcionar información sobre productos o servicios.&lt;br /&gt;Asistencia interna: gestionar tareas administrativas dentro de la empresa.&lt;br /&gt;Relacionar el chatbot con el plan de negocio que están desarrollando.&lt;br /&gt;2. Usar plataformas accesibles&lt;br /&gt;Herramientas sin código para facilitar el diseño:Chatfuel: Ideal para chatbots en Facebook Messenger.&lt;br /&gt;Tidio: Permite integrar chatbots en webs ficticias creadas para proyectos.&lt;br /&gt;Landbot: Muy intuitiva, perfecta para principiantes.&lt;br /&gt;Dialogflow (Google): Más avanzada, pero excelente para quienes quieran profundizar.&lt;br /&gt;Opciones gratuitas o con pruebas disponibles para comenzar.&lt;br /&gt;3. Diseñar un flujo de conversación&lt;br /&gt;Crear un mapa simple de preguntas y respuestas:Ejemplo: &quot;Hola, ¿en qué puedo ayudarte?&quot; → Opciones: &quot;Consultar precios&quot;, &quot;Horario de apertura&quot;, &quot;Hablar con un agente&quot;.&lt;br /&gt;Fomentar la creatividad para personalizar el tono y la voz del chatbot, alineándolo con los valores de la empresa ficticia.&lt;br /&gt;4. Probar y evaluar&lt;br /&gt;Simular conversaciones entre alumnos para identificar puntos de mejora.&lt;br /&gt;Introducir escenarios complicados para que el chatbot aprenda a gestionar errores.&lt;br /&gt;5. Presentar y justificar&lt;br /&gt;Pedir a los alumnos que expliquen cómo su chatbot mejora la experiencia del cliente o la eficiencia de su empresa.&lt;br /&gt;Valorar su utilidad, facilidad de uso y alineación con el proyecto empresarial.&lt;/p&gt;
+&lt;p&gt;Posibles actividades adicionales:&lt;br /&gt;Comparar herramientas de chatbot: Los alumnos investigan y seleccionan la más adecuada para su proyecto.&lt;br /&gt;Taller de personalización: Añadir funciones avanzadas, como integración con formularios o recopilación de datos para el análisis de clientes.&lt;br /&gt;Simulacro de uso real: Un grupo actúa como clientes interactuando con los chatbots de otro grupo.&lt;/p&gt;
+&lt;p&gt;Beneficios pedagógicos:&lt;br /&gt;Desarrollo tecnológico: Introduce conceptos básicos de IA y diseño UX/UI.&lt;br /&gt;Resolución de problemas: Desafía a los estudiantes a pensar en las necesidades de sus clientes.&lt;br /&gt;Trabajo colaborativo: Fomenta la cooperación al integrar roles (programación, marketing, servicio al cliente).&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2341,7 +2185,7 @@ text through the text editing buttons associated with the field."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="40"></reference>
+                <reference key="36"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -2366,7 +2210,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="originalicon"></string>
            <unicode value="activity"></unicode>
            <string role="key" value="parentNode"></string>
-           <reference key="41"></reference>
+           <reference key="37"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -2389,7 +2233,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Emprendemos%20con%20IA:Reto%203%3A%20Canvas%20Modelo%20Negocio%20"></string>
+        <string value="exe-node:Emprendemos%20con%20IA:Reto%203%3A%20Crea%20tu%20Chatbot"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2398,163 +2242,12 @@ text through the text editing buttons associated with the field."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="44">
+      <instance class="exe.engine.node.Node" reference="38">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Reto 4: Crea tu ChatBot"></unicode>
+        <unicode value="Reto 4: Inbound Marketing con IA"></unicode>
         <string role="key" value="idevices"></string>
-        <list>
-         <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="42">
-          <dictionary>
-           <string role="key" value="_title"></string>
-           <unicode value="Free Text"></unicode>
-           <string role="key" value="_author"></string>
-           <unicode value="University of Auckland"></unicode>
-           <string role="key" value="_purpose"></string>
-           <unicode value="The majority of a learning resource will be 
-establishing context, delivering instructions and providing general information.
-This provides the framework within which the learning activities are built and 
-delivered."></unicode>
-           <string role="key" value="_tip"></string>
-           <string value=""></string>
-           <string role="key" value="_typeName"></string>
-           <unicode value="Free Text"></unicode>
-           <string role="key" value="childs"></string>
-           <list></list>
-           <string role="key" value="content"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="43">
-            <dictionary>
-             <string role="key" value="_id"></string>
-             <int value="85"></int>
-             <string role="key" value="_idevice"></string>
-             <reference key="42"></reference>
-             <string role="key" value="_instruc"></string>
-             <unicode value="Use this field to enter text. This 
-iDevice has no emphasis applied although limited formatting can be applied to 
-text through the text editing buttons associated with the field."></unicode>
-             <string role="key" value="_name"></string>
-             <unicode value="Free Text"></unicode>
-             <string role="key" value="anchor_names"></string>
-             <list></list>
-             <string role="key" value="anchors_linked_from_fields"></string>
-             <dictionary></dictionary>
-             <string role="key" value="content_w_resourcePaths"></string>
-             <unicode content="true" value="&lt;p&gt;Reto: Crear un chatbot para una empresa ficticia&lt;br /&gt;Objetivo: Diseñar y configurar un chatbot básico que responda a preguntas comunes de clientes o simule atención al cliente para la empresa ficticia del proyecto empresarial.&lt;/p&gt;
-&lt;div class=&quot;exe-figure exe-image position-center license-CC-BY-SA&quot; style=&quot;width: 300px;&quot;&gt;&lt;img src=&quot;resources/120176.jpg&quot; alt=&quot;&quot; title=&quot;ChatBot&quot; width=&quot;300&quot; height=&quot;404&quot; /&gt;
-&lt;div class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://www.freepik.es/foto-gratis/conexion-comunicacion-contactos-burbujas-discurso_16438841.htm#fromView=image_search_similar&amp;amp;page=1&amp;amp;position=38&amp;amp;uuid=ce8214ce-8947-4425-9225-8944dd11f9ee&amp;amp;new_detail=true&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt;Freepik&lt;/a&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-SA&quot;&gt;CC BY-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;Cómo plantearlo paso a paso:&lt;br /&gt;1. Definir el propósito del chatbot&lt;br /&gt;¿Qué problema resolverá? Por ejemplo:Atención al cliente: responder preguntas frecuentes (horarios, precios, ubicación).&lt;br /&gt;Promoción: proporcionar información sobre productos o servicios.&lt;br /&gt;Asistencia interna: gestionar tareas administrativas dentro de la empresa.&lt;br /&gt;Relacionar el chatbot con el plan de negocio que están desarrollando.&lt;br /&gt;2. Usar plataformas accesibles&lt;br /&gt;Herramientas sin código para facilitar el diseño:Chatfuel: Ideal para chatbots en Facebook Messenger.&lt;br /&gt;Tidio: Permite integrar chatbots en webs ficticias creadas para proyectos.&lt;br /&gt;Landbot: Muy intuitiva, perfecta para principiantes.&lt;br /&gt;Dialogflow (Google): Más avanzada, pero excelente para quienes quieran profundizar.&lt;br /&gt;Opciones gratuitas o con pruebas disponibles para comenzar.&lt;br /&gt;3. Diseñar un flujo de conversación&lt;br /&gt;Crear un mapa simple de preguntas y respuestas:Ejemplo: &quot;Hola, ¿en qué puedo ayudarte?&quot; → Opciones: &quot;Consultar precios&quot;, &quot;Horario de apertura&quot;, &quot;Hablar con un agente&quot;.&lt;br /&gt;Fomentar la creatividad para personalizar el tono y la voz del chatbot, alineándolo con los valores de la empresa ficticia.&lt;br /&gt;4. Probar y evaluar&lt;br /&gt;Simular conversaciones entre alumnos para identificar puntos de mejora.&lt;br /&gt;Introducir escenarios complicados para que el chatbot aprenda a gestionar errores.&lt;br /&gt;5. Presentar y justificar&lt;br /&gt;Pedir a los alumnos que expliquen cómo su chatbot mejora la experiencia del cliente o la eficiencia de su empresa.&lt;br /&gt;Valorar su utilidad, facilidad de uso y alineación con el proyecto empresarial.&lt;br /&gt;&lt;br /&gt;Posibles actividades adicionales:&lt;br /&gt;Comparar herramientas de chatbot: Los alumnos investigan y seleccionan la más adecuada para su proyecto.&lt;br /&gt;Taller de personalización: Añadir funciones avanzadas, como integración con formularios o recopilación de datos para el análisis de clientes.&lt;br /&gt;Simulacro de uso real: Un grupo actúa como clientes interactuando con los chatbots de otro grupo.&lt;br /&gt;&lt;br /&gt;Beneficios pedagógicos:&lt;br /&gt;Desarrollo tecnológico: Introduce conceptos básicos de IA y diseño UX/UI.&lt;br /&gt;Resolución de problemas: Desafía a los estudiantes a pensar en las necesidades de sus clientes.&lt;br /&gt;Trabajo colaborativo: Fomenta la cooperación al integrar roles (programación, marketing, servicio al cliente).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;"></unicode>
-             <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-             <int value="4"></int>
-             <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-             <int value="2"></int>
-             <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-             <int value="3"></int>
-             <string role="key" value="htmlTag"></string>
-             <string value="div"></string>
-             <string role="key" value="images"></string>
-             <instance class="exe.engine.galleryidevice.GalleryImages">
-              <dictionary>
-               <string role="key" value=".listitems"></string>
-               <list>
-                <instance class="exe.engine.galleryidevice.GalleryImage">
-                 <dictionary>
-                  <string role="key" value="_caption"></string>
-                  <instance class="exe.engine.field.TextField">
-                   <dictionary>
-                    <string role="key" value="_id"></string>
-                    <int value="260"></int>
-                    <string role="key" value="_idevice"></string>
-                    <none></none>
-                    <string role="key" value="_instruc"></string>
-                    <string value=""></string>
-                    <string role="key" value="_name"></string>
-                    <string value=""></string>
-                    <string role="key" value="content"></string>
-                    <string value=""></string>
-                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                    <int value="4"></int>
-                   </dictionary>
-                  </instance>
-                  <string role="key" value="_id"></string>
-                  <unicode value="14_85.0"></unicode>
-                  <string role="key" value="_imageResource"></string>
-                  <instance class="exe.engine.resource.Resource" reference="45">
-                   <dictionary>
-                    <string role="key" value="_idevice"></string>
-                    <reference key="42"></reference>
-                    <string role="key" value="_package"></string>
-                    <reference key="2"></reference>
-                    <string role="key" value="_storageName"></string>
-                    <string value="120176.jpg"></string>
-                    <string role="key" value="_userName"></string>
-                    <string value="/var/folders/l5/glvt_kzj5s97jgvjp4955pfr0000gn/T/tmp_SdeLt.eXe/previews/allyourbase/120176.jpg"></string>
-                    <string role="key" value="checksum"></string>
-                    <string value="cc2465e4bff26d1f7f7a935ca8bb2071"></string>
-                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                    <int value="2"></int>
-                    <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                    <int value="2"></int>
-                    <string role="key" value="warningMsg"></string>
-                    <string value=""></string>
-                   </dictionary>
-                  </instance>
-                  <string role="key" value="_parent"></string>
-                  <reference key="43"></reference>
-                  <string role="key" value="_thumbnailResource"></string>
-                  <none></none>
-                  <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                  <int value="3"></int>
-                  <string role="key" value="makeThumbnail"></string>
-                  <bool value="0"></bool>
-                 </dictionary>
-                </instance>
-               </list>
-               <string role="key" value="idevice"></string>
-               <reference key="43"></reference>
-              </dictionary>
-             </instance>
-             <string role="key" value="intlinks_to_anchors"></string>
-             <dictionary></dictionary>
-             <string role="key" value="nextImageId"></string>
-             <int value="1"></int>
-             <string role="key" value="parentNode"></string>
-             <reference key="44"></reference>
-            </dictionary>
-           </instance>
-           <string role="key" value="edit"></string>
-           <bool value="0"></bool>
-           <string role="key" value="emphasis"></string>
-           <int value="0"></int>
-           <string role="key" value="exe.engine.freetextidevice.FreeTextIdevice.persistenceVersion"></string>
-           <int value="7"></int>
-           <string role="key" value="icon"></string>
-           <string value=""></string>
-           <string role="key" value="id"></string>
-           <unicode value="14"></unicode>
-           <string role="key" value="lastIdevice"></string>
-           <bool value="0"></bool>
-           <string role="key" value="originalicon"></string>
-           <string value=""></string>
-           <string role="key" value="parent"></string>
-           <none></none>
-           <string role="key" value="parentNode"></string>
-           <reference key="44"></reference>
-           <string role="key" value="systemResources"></string>
-           <list></list>
-           <string role="key" value="type"></string>
-           <none></none>
-           <string role="key" value="undo"></string>
-           <bool value="1"></bool>
-           <string role="key" value="userResources"></string>
-           <list>
-            <reference key="45"></reference>
-           </list>
-           <string role="key" value="version"></string>
-           <int value="0"></int>
-          </dictionary>
-         </instance>
-        </list>
+        <list></list>
         <string role="key" value="_id"></string>
         <unicode value="11"></unicode>
         <string role="key" value="_package"></string>
@@ -2566,7 +2259,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Emprendemos%20con%20IA:Reto%204%3A%20Crea%20tu%20ChatBot"></string>
+        <string value="exe-node:Emprendemos%20con%20IA:Reto%204%3A%20Inbound%20Marketing%20con%20IA"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2581,21 +2274,17 @@ text through the text editing buttons associated with the field."></unicode>
    <unicode role="key" value="1"></unicode>
    <reference key="10"></reference>
    <unicode role="key" value="10"></unicode>
-   <reference key="41"></reference>
+   <reference key="37"></reference>
    <unicode role="key" value="11"></unicode>
-   <reference key="44"></reference>
+   <reference key="38"></reference>
    <unicode role="key" value="2"></unicode>
    <reference key="13"></reference>
    <unicode role="key" value="3"></unicode>
    <reference key="16"></reference>
    <unicode role="key" value="4"></unicode>
    <reference key="28"></reference>
-   <unicode role="key" value="6"></unicode>
-   <reference key="31"></reference>
    <unicode role="key" value="7"></unicode>
-   <reference key="34"></reference>
-   <unicode role="key" value="8"></unicode>
-   <reference key="37"></reference>
+   <reference key="31"></reference>
    <unicode role="key" value="9"></unicode>
    <reference key="20"></reference>
   </dictionary>
@@ -2608,7 +2297,7 @@ text through the text editing buttons associated with the field."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="4"></reference>
+  <reference key="31"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -2945,7 +2634,7 @@ text through the text editing buttons associated with the field."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="46">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="39">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -2984,7 +2673,7 @@ text through the text editing buttons associated with the field."></unicode>
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="47">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="40">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -2999,7 +2688,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="48">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="41">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -3049,10 +2738,10 @@ text through the text editing buttons associated with the field."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="46"></reference>
+         <reference key="39"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="47"></reference>
+          <reference key="40"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -3060,7 +2749,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="48"></reference>
+           <reference key="41"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -3452,7 +3141,7 @@ text through the text editing buttons associated with the field."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="49">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="42">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -3491,7 +3180,7 @@ text through the text editing buttons associated with the field."></unicode>
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="50">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="43">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -3506,7 +3195,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="51">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="44">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -3556,10 +3245,10 @@ text through the text editing buttons associated with the field."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="49"></reference>
+         <reference key="42"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="50"></reference>
+          <reference key="43"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -3567,7 +3256,7 @@ text through the text editing buttons associated with the field."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="51"></reference>
+           <reference key="44"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -3744,7 +3433,7 @@ text through the text editing buttons associated with the field."></unicode>
   <dictionary>
    <string role="key" value="255e7f2cd46aeb88df2d883ef288b659"></string>
    <list>
-    <reference key="38"></reference>
+    <reference key="34"></reference>
    </list>
    <string role="key" value="3f5a158a59867e4e05f8d3028185ecf9"></string>
    <list>
@@ -3757,10 +3446,6 @@ text through the text editing buttons associated with the field."></unicode>
    <string role="key" value="aabc74a5605617c282e0986b8ed1e6fd"></string>
    <list>
     <reference key="25"></reference>
-   </list>
-   <string role="key" value="cc2465e4bff26d1f7f7a935ca8bb2071"></string>
-   <list>
-    <reference key="45"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
